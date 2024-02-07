@@ -1,4 +1,0 @@
-# scratch
-
-- Cheese puffs
-Awesome
