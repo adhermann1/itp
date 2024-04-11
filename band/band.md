@@ -8,7 +8,7 @@ While making our website, we had trouble making one of our links work. Initially
 
 **A self-assessment of how you contributed to the group**
 
-I provided the text for the paragraphs, as well as advising on how the href had to be used. I also helped figure out how to get the website on the internet. Additonally, I made sure my group mates knew the criteria for the project and that we accounted for everything.
+I provided the text for the paragraph using ChatGPT and my imagination, as well as advising on how the href had to be used. I also helped figure out how to get the website on the internet. Additonally, I made sure my group mates knew the criteria for the project and that we accounted for everything.
 
 **Short assessments of your group members and the contributions they made**
 
