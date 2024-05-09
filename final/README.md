@@ -6,7 +6,7 @@ I made a web-based weather program that uses a Graphical User Interface in order
 
 **How I Did It**
 
-I first started looking up how to make a web-based weather program, and I found a lot of different sources that all had a very similar method, using the Weather API from OpenWeatherMap. I looked at a few different versions of programs that ultimately did everything the same, looking to write it how I thought best, and I got this:
+I first started looking up how to make a web-based weather program, and I found a lot of different sources that all had a very similar method, using the Weather API from OpenWeatherMap (https://youtu.be/baWzHKfrvqw?feature=shared). I looked at a few different versions of programs that ultimately did everything the same, looking to write it how I thought best, and I got this:
 
 import requests
 
